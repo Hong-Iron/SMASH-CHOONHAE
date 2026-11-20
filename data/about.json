@@ -1,0 +1,34 @@
+{
+ "region": "울산 울주군",
+ "nameEn": "Choonhae College of Health Sciences",
+ "added": "2026-11-01T02:27",
+ "rank": 298,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "YOUNGSAN",
+   "campus": "영산대학교 양산캠퍼스",
+   "km": 5.7
+  },
+  {
+   "code": "UOU",
+   "campus": "울산대학교",
+   "km": 10.8
+  },
+  {
+   "code": "UNIST",
+   "campus": "울산과학기술원",
+   "km": 12.8
+  },
+  {
+   "code": "DIST",
+   "campus": "동원과학기술대학교",
+   "km": 17.4
+  },
+  {
+   "code": "UC",
+   "campus": "울산과학대학교 동부캠퍼스",
+   "km": 20.2
+  }
+ ]
+}
